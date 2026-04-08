@@ -1,0 +1,548 @@
+{
+  "business": {
+    "name": "First Solution Garage Door Services",
+    "phone": "+12162790486",
+    "category": "garage door repair",
+    "city": "Cleveland",
+    "state": "OH"
+  },
+  "design": {
+    "preset": {
+      "id": "roofing-mountain-bold",
+      "categoryGroup": "roofing",
+      "name": "Mountain Bold",
+      "recipeFile": "roofing/mountain-bold.astro",
+      "colors": {
+        "primary": "#1A3A52",
+        "primaryDark": "#0F2436",
+        "primaryLight": "#C8DDE8",
+        "secondary": "#2D5F7C",
+        "accent": "#FFC600",
+        "background": "#FFFFFF",
+        "backgroundAlt": "#1A3A52",
+        "surface": "#F0F4F7",
+        "text": "#0F172A",
+        "textLight": "#64748B",
+        "textOnDark": "#FFFFFF",
+        "border": "#D1D5DB"
+      },
+      "typography": {
+        "headingFont": "Plus Jakarta Sans",
+        "headingWeight": "700",
+        "bodyFont": "Inter",
+        "bodyWeight": "400",
+        "headingStyle": "normal",
+        "scale": "1.2"
+      },
+      "shape": {
+        "borderRadius": "8px",
+        "buttonRadius": "8px",
+        "cardRadius": "12px",
+        "shadowStyle": "medium"
+      },
+      "sections": {
+        "heroStyle": "dark",
+        "sectionAlternation": [
+          "light",
+          "surface",
+          "light",
+          "surface",
+          "light"
+        ],
+        "animationStyle": "fade",
+        "spacingScale": "balanced"
+      }
+    },
+    "recipeId": "roofing/mountain-bold"
+  },
+  "content": {
+    "homepage": {
+      "heroHeadline": "Cleveland's Garage Door Experts",
+      "heroSubline": "Reliable repairs and installations. We handle Cleveland's toughest garage door challenges.",
+      "aboutTitle": "Decades of Cleveland Garage Door Solutions",
+      "aboutText": [
+        "First Solution Garage Door Services started with a simple mission: provide Cleveland residents with honest, dependable garage door service. We've seen it all, from weather-beaten doors in Tremont to malfunctioning openers in Ohio City.",
+        "Our approach is straightforward: diagnose the problem accurately, explain the options clearly, and execute the repair or installation with precision. We value transparency and integrity above all else.",
+        "We're proud to be a part of the Cleveland community. We support local initiatives and strive to build lasting relationships with our customers. Our commitment extends beyond just fixing garage doors; it's about ensuring the safety and convenience of our neighbors."
+      ],
+      "valueProps": [
+        {
+          "title": "Fast Response Times",
+          "description": "We understand garage door problems need quick solutions. Expect prompt, reliable service, every time."
+        },
+        {
+          "title": "Experienced Technicians",
+          "description": "Our team has decades of combined experience tackling Cleveland's unique garage door challenges, from lake-effect corrosion to freeze-thaw damage."
+        },
+        {
+          "title": "Upfront Pricing",
+          "description": "No hidden fees or surprises. We provide clear, detailed estimates before any work begins."
+        },
+        {
+          "title": "24/7 Emergency Service",
+          "description": "Garage door emergencies don't wait for business hours. We're available around the clock to keep your home secure."
+        }
+      ],
+      "ctaHeadline": "Get Your Garage Door Fixed Today!",
+      "ctaSubline": "Call now for immediate assistance and a free quote."
+    },
+    "services": [
+      {
+        "slug": "garage-door-spring-repair",
+        "name": "Garage Door Spring Repair",
+        "shortDescription": "Expert repair and replacement of broken or worn garage door springs.",
+        "description": "Garage door springs are under immense tension, making their repair a potentially dangerous task. First Solution Garage Door Services specializes in safely and efficiently repairing and replacing both torsion and extension springs. We understand the critical role springs play in the smooth operation of your garage door, especially during Cleveland's harsh winters when temperature fluctuations can weaken the metal. \n\nOur technicians arrive equipped with the correct tools and high-quality replacement springs designed to withstand the rigors of Cleveland's climate. We'll assess the condition of your existing springs, identify the root cause of the failure (often rust or fatigue), and recommend the best course of action. Whether it's a simple adjustment or a complete spring replacement, we ensure your garage door operates safely and reliably.\n\nWe also offer preventative maintenance services, including spring lubrication and inspection, to extend the lifespan of your springs and prevent unexpected breakdowns. Don't risk injury or further damage by attempting spring repair yourself. Trust the professionals at First Solution to handle your garage door spring needs with expertise and care.",
+        "process": [
+          "Step 1: Thorough inspection of the existing springs and door mechanism.",
+          "Step 2: Safe removal of the broken or worn springs.",
+          "Step 3: Installation of high-quality replacement springs.",
+          "Step 4: Balance and adjustment of the door for smooth and safe operation."
+        ],
+        "benefits": [
+          "Safe and reliable garage door operation",
+          "Extended lifespan of your garage door system",
+          "Prevention of further damage to your door and opener",
+          "Peace of mind knowing the job is done correctly"
+        ],
+        "faq": [
+          {
+            "question": "How do I know if my garage door spring is broken?",
+            "answer": "Common signs include a loud bang, a visibly broken spring, or a garage door that is difficult or impossible to open."
+          },
+          {
+            "question": "Can I replace garage door springs myself?",
+            "answer": "Due to the high tension involved, it's highly recommended to hire a trained professional to replace garage door springs to avoid serious injury."
+          },
+          {
+            "question": "How long do garage door springs typically last?",
+            "answer": "Garage door springs typically last between 7-10 years, depending on usage and maintenance. Regular lubrication can help extend their lifespan."
+          }
+        ]
+      },
+      {
+        "slug": "garage-door-opener-repair",
+        "name": "Garage Door Opener Repair",
+        "shortDescription": "Prompt and reliable repair of all major garage door opener brands.",
+        "description": "A malfunctioning garage door opener can be a major inconvenience, especially during Cleveland's blustery winters. First Solution Garage Door Services provides comprehensive repair services for all major garage door opener brands, including LiftMaster, Chamberlain, and Genie. We understand the intricacies of these systems and can quickly diagnose and resolve a wide range of issues, from faulty sensors to broken gears.\n\nOur technicians carry a wide selection of replacement parts to ensure a fast and efficient repair. We'll troubleshoot the problem, explain the repair options clearly, and provide an upfront estimate. Whether it's a simple adjustment or a more complex repair, we'll get your garage door opener working smoothly again.\n\nWe also offer installation services for new garage door openers, including models with advanced features like smartphone control and battery backup. If your opener is beyond repair or you're looking to upgrade to a newer model, we can help you choose the right opener for your needs and budget.",
+        "process": [
+          "Step 1: Diagnose the issue with your garage door opener.",
+          "Step 2: Provide a clear explanation of the problem and repair options.",
+          "Step 3: Replace any faulty parts with high-quality replacements.",
+          "Step 4: Test and adjust the opener for optimal performance."
+        ],
+        "benefits": [
+          "Convenient and reliable garage door operation",
+          "Enhanced security for your home",
+          "Extended lifespan of your garage door opener",
+          "Access to advanced opener features"
+        ],
+        "faq": [
+          {
+            "question": "My garage door opener is making a lot of noise. What could be the problem?",
+            "answer": "Excessive noise can be caused by worn gears, a loose chain, or a lack of lubrication. Our technicians can diagnose the source of the noise and provide the necessary repairs."
+          },
+          {
+            "question": "My garage door opener won't open or close. What should I do?",
+            "answer": "Check the power supply, safety sensors, and remote control batteries. If the problem persists, call First Solution for professional assistance."
+          },
+          {
+            "question": "How often should I lubricate my garage door opener?",
+            "answer": "It's recommended to lubricate the moving parts of your garage door opener at least once a year to ensure smooth and quiet operation."
+          }
+        ]
+      },
+      {
+        "slug": "garage-door-cable-repair",
+        "name": "Garage Door Cable Repair",
+        "shortDescription": "Expert repair and replacement of damaged or frayed garage door cables.",
+        "description": "Garage door cables are essential for the safe and balanced operation of your garage door. Over time, these cables can become frayed, worn, or even snap, especially with Cleveland's freeze-thaw cycles affecting the metal's integrity. First Solution Garage Door Services offers expert cable repair and replacement services to ensure your garage door operates smoothly and safely.\n\nOur technicians are trained to handle cable repairs with precision and care. We use only high-quality replacement cables designed to withstand the stress and strain of daily use. We'll inspect the entire cable system, identify any potential problems, and provide a comprehensive solution. Whether it's a simple cable adjustment or a complete cable replacement, we'll get your garage door back in top working condition.\n\nAttempting to repair or replace garage door cables yourself can be dangerous due to the high tension involved. Trust the professionals at First Solution to handle your cable repair needs safely and efficiently.",
+        "process": [
+          "Step 1: Inspect the garage door cables for damage or wear.",
+          "Step 2: Safely relieve the tension on the cables.",
+          "Step 3: Replace the damaged or frayed cables with high-quality replacements.",
+          "Step 4: Adjust and balance the door for smooth and safe operation."
+        ],
+        "benefits": [
+          "Safe and reliable garage door operation",
+          "Prevention of further damage to your door and opener",
+          "Extended lifespan of your garage door system",
+          "Peace of mind knowing the job is done correctly"
+        ],
+        "faq": [
+          {
+            "question": "How do I know if my garage door cables need to be replaced?",
+            "answer": "Signs of worn cables include fraying, rust, or visible damage. If you notice any of these signs, it's important to have your cables inspected by a professional."
+          },
+          {
+            "question": "Can I replace garage door cables myself?",
+            "answer": "Due to the high tension involved, it's highly recommended to hire a trained professional to replace garage door cables to avoid serious injury."
+          },
+          {
+            "question": "How often should I have my garage door cables inspected?",
+            "answer": "It's recommended to have your garage door cables inspected at least once a year to ensure they are in good working condition."
+          }
+        ]
+      },
+      {
+        "slug": "garage-door-roller-repair",
+        "name": "Garage Door Roller Repair",
+        "shortDescription": "Replacing worn or damaged rollers for smooth, quiet garage door operation.",
+        "description": "Worn or damaged garage door rollers can cause your door to operate noisily and inefficiently, and can even damage the tracks. First Solution Garage Door Services specializes in replacing garage door rollers to ensure smooth and quiet operation. We use high-quality rollers that are designed to withstand the wear and tear of daily use, especially important with the older housing stock in neighborhoods like Tremont and Ohio City.\n\nOur technicians will inspect your rollers, identify any damaged or worn rollers, and replace them with new, durable rollers. We'll also lubricate the rollers and tracks to ensure smooth and quiet operation. Replacing worn rollers can also prevent further damage to your garage door and opener.\n\nWe offer a variety of roller types to suit your specific needs, including nylon rollers for quieter operation and steel rollers for increased durability.",
+        "process": [
+          "Step 1: Inspect the garage door rollers and tracks for damage or wear.",
+          "Step 2: Remove the worn or damaged rollers.",
+          "Step 3: Install new, high-quality rollers.",
+          "Step 4: Lubricate the rollers and tracks for smooth operation."
+        ],
+        "benefits": [
+          "Smooth and quiet garage door operation",
+          "Extended lifespan of your garage door system",
+          "Prevention of further damage to your door and opener",
+          "Improved energy efficiency"
+        ],
+        "faq": [
+          {
+            "question": "How do I know if my garage door rollers need to be replaced?",
+            "answer": "Signs of worn rollers include noisy operation, difficulty opening or closing the door, and visible damage to the rollers."
+          },
+          {
+            "question": "What type of rollers are best for my garage door?",
+            "answer": "Nylon rollers are quieter, while steel rollers are more durable. Our technicians can help you choose the right rollers for your needs."
+          },
+          {
+            "question": "How often should I lubricate my garage door rollers?",
+            "answer": "It's recommended to lubricate your garage door rollers at least once a year to ensure smooth operation."
+          }
+        ]
+      },
+      {
+        "slug": "garage-door-panel-replacement",
+        "name": "Garage Door Panel Replacement",
+        "shortDescription": "Replacing damaged or dented garage door panels to restore your door's appearance and functionality.",
+        "description": "Damaged or dented garage door panels can detract from the appearance of your home and compromise the security of your garage. First Solution Garage Door Services offers panel replacement services to restore your door's appearance and functionality. We can match existing panels or replace entire sections.\n\nWe work with a wide variety of garage door manufacturers and can source replacement panels for most door styles and materials, including steel, wood, and aluminum. Our technicians will carefully remove the damaged panels and install the new panels, ensuring a seamless and professional finish.\n\nReplacing damaged panels is a cost-effective way to improve the appearance and functionality of your garage door without replacing the entire door. This is especially helpful in Cleveland's older neighborhoods where maintaining the original aesthetic is important.",
+        "process": [
+          "Step 1: Assess the damage to the garage door panels.",
+          "Step 2: Source replacement panels that match your existing door.",
+          "Step 3: Carefully remove the damaged panels.",
+          "Step 4: Install the new panels and ensure a seamless finish."
+        ],
+        "benefits": [
+          "Improved appearance of your home",
+          "Restored security of your garage",
+          "Cost-effective alternative to replacing the entire door",
+          "Increased property value"
+        ],
+        "faq": [
+          {
+            "question": "Can you match the color and style of my existing garage door panels?",
+            "answer": "Yes, we work with a wide variety of manufacturers and can source replacement panels that match your existing door."
+          },
+          {
+            "question": "Is it cheaper to replace panels or the entire garage door?",
+            "answer": "Replacing panels is typically cheaper than replacing the entire garage door, especially if only a few panels are damaged."
+          },
+          {
+            "question": "How long does it take to replace garage door panels?",
+            "answer": "The replacement process typically takes a few hours, depending on the number of panels being replaced."
+          }
+        ]
+      },
+      {
+        "slug": "garage-door-weather-seal-replacement",
+        "name": "Garage Door Weather Seal Replacement",
+        "shortDescription": "Replacing worn weather seals to improve energy efficiency and protect your garage from the elements.",
+        "description": "Worn or damaged garage door weather seals can allow drafts, moisture, and pests to enter your garage, leading to increased energy bills and potential damage to your belongings. First Solution Garage Door Services offers weather seal replacement services to improve energy efficiency and protect your garage from the elements, a critical service in Cleveland's harsh climate.\n\nWe use high-quality weather seals that are designed to withstand the wear and tear of daily use and provide a tight seal against the elements. Our technicians will remove the old weather seals and install new seals, ensuring a proper fit and maximum protection. Proper sealing also helps prevent salt and road grime from corroding the bottom edge of the garage door, a common issue near Lake Erie.\n\nReplacing worn weather seals is a simple and cost-effective way to improve the energy efficiency of your home and protect your garage from the elements.",
+        "process": [
+          "Step 1: Inspect the existing weather seals for damage or wear.",
+          "Step 2: Remove the old weather seals.",
+          "Step 3: Install new, high-quality weather seals.",
+          "Step 4: Ensure a proper fit and tight seal."
+        ],
+        "benefits": [
+          "Improved energy efficiency",
+          "Protection from drafts, moisture, and pests",
+          "Reduced energy bills",
+          "Extended lifespan of your garage door"
+        ],
+        "faq": [
+          {
+            "question": "How do I know if my garage door weather seals need to be replaced?",
+            "answer": "Signs of worn weather seals include visible damage, drafts around the door, and moisture or pests entering the garage."
+          },
+          {
+            "question": "What type of weather seals are best for my garage door?",
+            "answer": "We offer a variety of weather seals to suit different door types and climates. Our technicians can help you choose the right seals for your needs."
+          },
+          {
+            "question": "How often should I replace my garage door weather seals?",
+            "answer": "It's recommended to replace your garage door weather seals every few years, or as needed."
+          }
+        ]
+      }
+    ],
+    "serviceAreas": [
+      {
+        "city": "Cleveland",
+        "slug": "cleveland-oh",
+        "state": "OH",
+        "content": "First Solution Garage Door Services is proud to serve the residents and businesses of Cleveland, Ohio. We understand the importance of a functioning and secure garage door, especially with Cleveland's diverse weather conditions. From the bustling downtown area to the historic neighborhoods, we provide prompt and reliable garage door repair, installation, and maintenance services throughout the city.\n\nOur experienced technicians are familiar with the unique architectural styles and garage door configurations found in Cleveland homes and businesses. We are committed to providing top-notch service and ensuring the safety and security of your property. Whether you need a simple spring replacement or a complete garage door overhaul, First Solution is here to help.\n\nWe're dedicated to providing Cleveland residents with the best garage door solutions.",
+        "localContext": "Cleveland, known for its vibrant arts and culture scene and its rich industrial history, demands reliable services that understand its unique character.",
+        "nearbyAreas": [
+          "Lakewood",
+          "Parma",
+          "Shaker Heights"
+        ]
+      },
+      {
+        "city": "Lakewood",
+        "slug": "lakewood-oh",
+        "state": "OH",
+        "content": "First Solution Garage Door Services extends its expert services to the vibrant community of Lakewood, Ohio. We recognize the importance of a well-maintained garage door for the safety and curb appeal of your home. From the historic homes near the lake to the modern apartments, we offer comprehensive garage door solutions to meet your specific needs.\n\nOur team is equipped to handle any garage door issue, from broken springs and cables to malfunctioning openers. We pride ourselves on our prompt response times and our commitment to providing exceptional customer service. We understand that a broken garage door can be a major inconvenience, so we strive to get your door back in working order as quickly as possible.\n\nLakewood residents can rely on First Solution Garage Door Services for all their garage door needs.",
+        "localContext": "Lakewood, a close-knit community known for its beautiful parks and thriving local businesses, appreciates dependable and efficient service.",
+        "nearbyAreas": [
+          "Cleveland",
+          "Rocky River",
+          "Brooklyn"
+        ]
+      },
+      {
+        "city": "Parma",
+        "slug": "parma-oh",
+        "state": "OH",
+        "content": "First Solution Garage Door Services is pleased to offer its services to the residents of Parma, Ohio. We understand the importance of a reliable garage door for the security and convenience of your home. With a mix of established neighborhoods and newer developments, Parma residents value dependable home services.\n\nWe provide a full range of garage door services, including repairs, installations, and maintenance. Our experienced technicians are trained to work on all types of garage doors and openers. We use only high-quality parts and materials to ensure the longevity and performance of your garage door system. We also offer emergency repair services for those unexpected garage door emergencies.\n\nFirst Solution Garage Door Services is your trusted partner for all your garage door needs in Parma.",
+        "localContext": "Parma, a family-friendly city known for its strong community ties and affordable living, values reliable and trustworthy service providers.",
+        "nearbyAreas": [
+          "Cleveland",
+          "Seven Hills",
+          "Brooklyn Heights"
+        ]
+      },
+      {
+        "city": "Shaker Heights",
+        "slug": "shaker-heights-oh",
+        "state": "OH",
+        "content": "First Solution Garage Door Services is dedicated to serving the distinctive community of Shaker Heights, Ohio. We understand the importance of maintaining the architectural integrity and security of your home. With its beautiful historic homes and tree-lined streets, Shaker Heights residents appreciate quality craftsmanship and attention to detail.\n\nWe offer a wide range of garage door services tailored to the unique needs of Shaker Heights homeowners. From repairing ornate wooden doors to installing modern, energy-efficient models, our team has the expertise to handle any project. We are committed to providing exceptional service and preserving the beauty and value of your home.\n\nTrust First Solution Garage Door Services to keep your garage door in top condition in Shaker Heights.",
+        "localContext": "Shaker Heights, a suburb known for its historic architecture and commitment to community, requires service that respects its unique aesthetic and values.",
+        "nearbyAreas": [
+          "Cleveland",
+          "University Heights",
+          "Beachwood"
+        ]
+      },
+      {
+        "city": "Rocky River",
+        "slug": "rocky-river-oh",
+        "state": "OH",
+        "content": "First Solution Garage Door Services proudly serves the residents of Rocky River, Ohio. We understand the importance of a secure and functional garage door in protecting your home and belongings. With its beautiful lakefront properties and established neighborhoods, Rocky River residents value quality and reliability.\n\nWe provide a comprehensive range of garage door services, including repairs, installations, and maintenance. Our experienced technicians are equipped to handle any issue, from broken springs and cables to malfunctioning openers. We use only high-quality parts and materials to ensure the longevity and performance of your garage door system.\n\nFirst Solution Garage Door Services is your trusted partner for all your garage door needs in Rocky River.",
+        "localContext": "Rocky River, a community known for its scenic beauty and strong sense of community, values reliable and professional services.",
+        "nearbyAreas": [
+          "Lakewood",
+          "Bay Village",
+          "Fairview Park"
+        ]
+      },
+      {
+        "city": "Westlake",
+        "slug": "westlake-oh",
+        "state": "OH",
+        "content": "First Solution Garage Door Services is committed to providing top-notch service to the residents of Westlake, Ohio. We understand the importance of a reliable and secure garage door for the safety and convenience of your home. With its mix of residential and commercial properties, Westlake residents rely on dependable service providers.\n\nWe offer a full range of garage door services, including repairs, installations, and maintenance. Our experienced technicians are trained to work on all types of garage doors and openers. We use only high-quality parts and materials to ensure the longevity and performance of your garage door system. We also offer emergency repair services for those unexpected garage door emergencies.\n\nFirst Solution Garage Door Services is your trusted partner for all your garage door needs in Westlake.",
+        "localContext": "Westlake, a thriving suburb with a mix of residential and commercial areas, appreciates efficient and dependable services.",
+        "nearbyAreas": [
+          "Bay Village",
+          "North Olmsted",
+          "Avon"
+        ]
+      },
+      {
+        "city": "Strongsville",
+        "slug": "strongsville-oh",
+        "state": "OH",
+        "content": "First Solution Garage Door Services is pleased to serve the residents and businesses of Strongsville, Ohio. We understand the importance of a functioning and secure garage door, especially in a community like Strongsville. From the residential neighborhoods to the commercial areas, we provide prompt and reliable garage door services throughout the city.\n\nOur experienced technicians are familiar with the various garage door configurations found in Strongsville homes and businesses. We are committed to providing top-notch service and ensuring the safety and security of your property. Whether you need a simple spring replacement or a complete garage door overhaul, First Solution is here to help.\n\nWe're dedicated to providing Strongsville residents with the best garage door solutions.",
+        "localContext": "Strongsville, a large suburban community known for its family-friendly atmosphere, values dependable and affordable services.",
+        "nearbyAreas": [
+          "North Royalton",
+          "Brunswick",
+          "Middleburg Heights"
+        ]
+      },
+      {
+        "city": "North Olmsted",
+        "slug": "north-olmsted-oh",
+        "state": "OH",
+        "content": "First Solution Garage Door Services offers expert garage door services to the community of North Olmsted, Ohio. We understand the importance of a well-maintained garage door for both security and convenience. With a variety of housing styles and commercial properties, North Olmsted needs a garage door service that can handle any issue.\n\nOur team is equipped to handle any garage door problem, from broken springs and cables to malfunctioning openers. We pride ourselves on our quick response times and commitment to excellent customer service. We recognize that a broken garage door can cause major disruptions, and we aim to get your door working again as quickly as possible.\n\nNorth Olmsted residents can depend on First Solution Garage Door Services for all their garage door needs.",
+        "localContext": "North Olmsted, a city with a mix of residential and commercial areas, appreciates efficient and reliable service.",
+        "nearbyAreas": [
+          "Fairview Park",
+          "Westlake",
+          "Olmsted Falls"
+        ]
+      }
+    ],
+    "reviews": [
+      {
+        "name": "Maria S.",
+        "rating": 5,
+        "service": "Garage Door Spring Replacement",
+        "text": "Our garage door spring broke on a Sunday morning! First Solution was out here within an hour and had it fixed quickly. The technician was professional and explained everything clearly. Great service!",
+        "date": "2025-03-15"
+      },
+      {
+        "name": "David K.",
+        "rating": 4,
+        "service": "Garage Door Opener Repair",
+        "text": "My garage door opener stopped working, and I couldn't get my car out! First Solution came to the rescue. They diagnosed the problem quickly and had it fixed in no time. Very happy with their service.",
+        "date": "2025-04-02"
+      },
+      {
+        "name": "Jessica L.",
+        "rating": 5,
+        "service": "Garage Door Cable Repair",
+        "text": "The cable on my garage door snapped, and I was worried about the door collapsing. First Solution came out and replaced the cable quickly and safely. I felt very confident in their expertise.",
+        "date": "2025-05-10"
+      },
+      {
+        "name": "Robert B.",
+        "rating": 5,
+        "service": "Garage Door Roller Replacement",
+        "text": "My garage door was making a terrible screeching noise every time it opened or closed. First Solution replaced the rollers, and now it's quiet as can be! Great job!",
+        "date": "2025-06-22"
+      },
+      {
+        "name": "Susan M.",
+        "rating": 4,
+        "service": "Garage Door Panel Replacement",
+        "text": "A section of our garage door was dented when a car backed into it. First Solution matched the panel perfectly and replaced it quickly. You can't even tell there was damage!",
+        "date": "2025-07-05"
+      },
+      {
+        "name": "Tom R.",
+        "rating": 5,
+        "service": "Garage Door Weather Seal Replacement",
+        "text": "We were getting a lot of cold air coming in under our garage door. First Solution replaced the weather seal, and it made a huge difference! The garage is much warmer now.",
+        "date": "2025-08-18"
+      }
+    ],
+    "seo": {
+      "homepage": {
+        "title": "Cleveland Garage Door Repair | First Solution",
+        "description": "Fast & reliable garage door repair in Cleveland, OH. Springs, openers, cables & more. 24/7 emergency service!"
+      },
+      "about": {
+        "title": "About First Solution Garage Door Services",
+        "description": "Learn about our Cleveland garage door repair company, our values, and our commitment to the community."
+      },
+      "services": {
+        "title": "Garage Door Repair Services | Cleveland, OH",
+        "description": "Comprehensive garage door repair services in Cleveland. Spring repair, opener repair, cable replacement & more!"
+      },
+      "contact": {
+        "title": "Contact First Solution Garage Door Services",
+        "description": "Contact us for fast and reliable garage door repair in Cleveland, OH. Call now for immediate assistance."
+      },
+      "reviews": {
+        "title": "Customer Reviews | First Solution Garage Door",
+        "description": "Read what our customers are saying about our garage door repair services in Cleveland, OH. See why we're the best!"
+      },
+      "service-areas": {
+        "title": "Garage Door Repair Service Areas",
+        "description": "First Solution Garage Door repair service area"
+      }
+    },
+    "companyInfo": {
+      "yearsInBusiness": 12,
+      "projectsCompleted": "850+",
+      "satisfaction": "98%",
+      "teamSize": "22+"
+    }
+  },
+  "images": {
+    "hero": "/images/hero.webp",
+    "heroResponsive": {
+      "src": "/images/hero.webp",
+      "srcset": "/images/hero-400w.webp 400w, /images/hero-800w.webp 800w, /images/hero-1200w.webp 1200w, /images/hero.webp 1376w",
+      "sizes": "100vw",
+      "width": 1376,
+      "height": 768
+    },
+    "about": "/images/about.webp",
+    "aboutResponsive": {
+      "src": "/images/about.webp",
+      "srcset": "/images/about-400w.webp 400w, /images/about-800w.webp 800w, /images/about-1200w.webp 1200w, /images/about.webp 1200w",
+      "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+      "width": 1200,
+      "height": 896
+    },
+    "services": {
+      "garage-door-spring-repair": "/images/service-garage-door-spring-repair.webp",
+      "garage-door-opener-repair": "/images/service-garage-door-opener-repair.webp",
+      "garage-door-cable-repair": "/images/service-garage-door-cable-repair.webp",
+      "garage-door-roller-repair": "/images/service-garage-door-roller-repair.webp",
+      "garage-door-panel-replacement": "/images/service-garage-door-panel-replacement.webp",
+      "garage-door-weather-seal-replacement": "/images/service-garage-door-weather-seal-replacement.webp"
+    },
+    "servicesResponsive": {
+      "garage-door-spring-repair": {
+        "src": "/images/service-garage-door-spring-repair.webp",
+        "srcset": "/images/service-garage-door-spring-repair-400w.webp 400w, /images/service-garage-door-spring-repair-800w.webp 800w, /images/service-garage-door-spring-repair-1200w.webp 1200w, /images/service-garage-door-spring-repair.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "garage-door-opener-repair": {
+        "src": "/images/service-garage-door-opener-repair.webp",
+        "srcset": "/images/service-garage-door-opener-repair-400w.webp 400w, /images/service-garage-door-opener-repair-800w.webp 800w, /images/service-garage-door-opener-repair-1200w.webp 1200w, /images/service-garage-door-opener-repair.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "garage-door-cable-repair": {
+        "src": "/images/service-garage-door-cable-repair.webp",
+        "srcset": "/images/service-garage-door-cable-repair-400w.webp 400w, /images/service-garage-door-cable-repair-800w.webp 800w, /images/service-garage-door-cable-repair-1200w.webp 1200w, /images/service-garage-door-cable-repair.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "garage-door-roller-repair": {
+        "src": "/images/service-garage-door-roller-repair.webp",
+        "srcset": "/images/service-garage-door-roller-repair-400w.webp 400w, /images/service-garage-door-roller-repair-800w.webp 800w, /images/service-garage-door-roller-repair-1200w.webp 1200w, /images/service-garage-door-roller-repair.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "garage-door-panel-replacement": {
+        "src": "/images/service-garage-door-panel-replacement.webp",
+        "srcset": "/images/service-garage-door-panel-replacement-400w.webp 400w, /images/service-garage-door-panel-replacement-800w.webp 800w, /images/service-garage-door-panel-replacement-1200w.webp 1200w, /images/service-garage-door-panel-replacement.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "garage-door-weather-seal-replacement": {
+        "src": "/images/service-garage-door-weather-seal-replacement.webp",
+        "srcset": "/images/service-garage-door-weather-seal-replacement-400w.webp 400w, /images/service-garage-door-weather-seal-replacement-800w.webp 800w, /images/service-garage-door-weather-seal-replacement-1200w.webp 1200w, /images/service-garage-door-weather-seal-replacement.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    },
+    "gallery": [
+      "/images/gallery-0.webp",
+      "/images/gallery-1.webp"
+    ],
+    "galleryResponsive": [
+      {
+        "src": "/images/gallery-0.webp",
+        "srcset": "/images/gallery-0-400w.webp 400w, /images/gallery-0-800w.webp 800w, /images/gallery-0-1200w.webp 1200w, /images/gallery-0.webp 1200w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1200,
+        "height": 896
+      },
+      {
+        "src": "/images/gallery-1.webp",
+        "srcset": "/images/gallery-1-400w.webp 400w, /images/gallery-1-800w.webp 800w, /images/gallery-1-1200w.webp 1200w, /images/gallery-1.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    ]
+  }
+}
